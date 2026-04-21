@@ -55,10 +55,6 @@ R9: G3 AND G10 → P9
 2. Masukkan gejala (contoh: G1,G3,G5)  
 3. Sistem akan menampilkan proses dan hasil diagnosis  
 
-## ▶️ Jalankan Online
-Program juga dapat dijalankan langsung melalui Google Colab:
-https://colab.research.google.com/drive/1ersLzxJfveLw4puJBDXJHOaki7SynTOs?usp=sharing
-
 ## 💻 Teknologi
 - Python
 
